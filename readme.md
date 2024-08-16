@@ -58,13 +58,10 @@
 |--|--|--|--|--|
 ||PCB|1|-|雙面通用|
 ||外殼|1|-|左右通用|
-|*|MCU|1|`ProMicro`腳位之MCU|推薦使用`RP2040`版本|
+|*|`ProMicro`|1|同腳MCU都可|推薦使用`RP2040`版本|
 |*|二極體 `1N4148`|25|-|`SMD`貼片式|
 |*|熱插拔座|24|`Choc`、`GLP`|二選一|
 ||`2pin`輕觸開關|1|-|-|
-|*|旋鈕編碼器|1|選配|`EC11`、`EC12`擇一使用；`L：10mm`、`A：4.5-5.0mm`，推薦`半軸` `D型`|
-|*|旋鈕編碼器帽蓋|1|選配|`ø39mm`、`軸孔深4.5mm`特製版，推薦3D列印|
-|*|`Cirque` `40mm`觸控板|1|選配|推薦帶`曲面`之版本|
 |*|M2螺絲墊片|10|-|穩固鍵盤結構使用|
 ||M2x`8mm` 扁頭螺絲|6|-|-|
 ||M2x`6mm` 扁頭螺絲|8|-|-|
@@ -75,10 +72,20 @@
 ||M2x`5mm` 雙通銅柱|4|-|-|
 ||M2x`4mm` 雙通銅柱|4|-|-|
 ||`ø8mm` `H1mm` 矽膠自黏腳貼|4|-|-|
+|*|`Cirque` `40mm`觸控板|1|選配|推薦帶`曲面`之版本|
 ||`FFC` `12pin` 排線連接座|1|選配|如有`I2C轉接座`可不需使用|
 |*|`FFC` `12pin` 軟排線|1|選配|`正對正接口`、`50mm`長即可|
 |*|`4.7K` 上拉電阻|2|選配|`THT`直插式，安裝觸控板才需要使用|
+|*|旋鈕編碼器|1|選配|`EC11`、`EC12`擇一使用；`L：10mm`、`A：4.5-5.0mm`，推薦`半軸` `D型`|
+|*|旋鈕編碼器帽蓋|1|選配|`ø39mm`、`軸孔深4.5mm`特製版，推薦3D列印|
 ||`3.5mm` `TRRS`座|2|選配|單側安裝不需使用|
+
+> **Notice**
+>
+> 探索者3號支援各大網路商家販售的Cirque 40mm的觸控板模組拓展包，裡頭基本一應俱全，可考慮直接從通路購買：
+> 
+> - [40mm Cirque GlidePoint Circle Trackpad Module DIY Kit for Split Mechanical Keyboard](https://shop.beekeeb.com/product/40mm-cirque-glidepoint-circle-trackpad-module-diy-kit-for-split-mechanical-keyboard/)
+> - [GlidePoint Cirque Trackpad TM040040 TM035035](https://keycapsss.com/keyboard-parts/parts/211/glidepoint-cirque-trackpad-tm040040-tm035035)
 
 ### 注意事項
 
@@ -95,7 +102,7 @@
 5. 在進入組裝環節之前，務必先將beekeeb及Keycapsss的組裝流程看過一輪：
 
     - [Cirque Trackpad i2c on Corne Keyboard Build Log](https://beekeeb.com/cirque-trackpad-i2c-on-corne-keyboard/)。
-    - [GlidePoint Cirque Trackpad with Adapter PCB](https://github.com/Keycapsss/cirque-trackpad)。
+    - [GlidePoint Cirque Trackpad with Adapter PCB](https://keycapsss.com/help/cirque-trackpad/#spi-or-i2c)。
 
 環境及材料都準備完畢之後，就可以開始進入[組裝環節](guide.md)了。
 
