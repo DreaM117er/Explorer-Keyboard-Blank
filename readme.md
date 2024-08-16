@@ -88,9 +88,14 @@ Blank，翻譯成中文的意思為空白。結合了Plank所需要的基礎，�
     - 二極體`1N4148`及`熱插拔座`請務必準備齊全，否則鍵盤會無法正常使用。
     - 旋鈕`編碼器`需搭配`帽蓋`一起安裝。
     - Crique 40mm`觸控板`需搭配`4.7k上拉電阻`、`12pin軟排線`安裝，缺一不可，請特別留意。
-    - `M2螺絲墊片`務必準備齊全，事關鍵盤整體的`結構`，務必安裝上去。
+    - `M2螺絲墊片`務必準備齊全，有關鍵盤整體的`結構`，務必安裝上去。
+ 
+3. 機械鍵軸務必跟隨熱插拔座的規格進行購買，因為`Choc跟GLP規格不相容`。
+4. 使用電烙鐵時務必留意`環境通風`、`用電安全`及`燙傷預防`。
+5. 在進入組裝環節之前，務必先將beekeeb及Keycapsss的組裝流程看過一輪：
 
-3. 使用電烙鐵時務必留意環境通風、用電安全及燙傷預防。
+    - [Cirque Trackpad i2c on Corne Keyboard Build Log](https://beekeeb.com/cirque-trackpad-i2c-on-corne-keyboard/)
+    - [GlidePoint Cirque Trackpad with Adapter PCB](https://github.com/Keycapsss/cirque-trackpad)
 
 環境及材料都準備完畢之後，就可以開始進入[組裝環節](guide.md)了。
 
