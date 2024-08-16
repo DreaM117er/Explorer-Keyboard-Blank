@@ -56,8 +56,8 @@
 
 |-|名稱|數量|備註|詳細說明|
 |--|--|--|--|--|
-||PCB|1|-|-|
-||外殼|1|-|-|
+||PCB|1|-|雙面通用|
+||外殼|1|-|左右通用|
 |*|MCU|1|`ProMicro`腳位之MCU|推薦使用`RP2040`版本|
 |*|二極體 `1N4148`|25|-|`SMD`貼片式|
 |*|熱插拔座|24|`Choc`、`GLP`|二選一|
@@ -114,7 +114,7 @@
 
 ### 商家及廠家
 - [太豪股份有限公司](https://www.tai-hao.com/tw/)。
-- [凱華電子有限公司。](http://www.kailh.com/index.html)
+- [凱華電子有限公司](http://www.kailh.com/index.html)。
 - [nuphy](https://nuphy.com/)及[Gateron](https://www.gateron.co/)。
 - [beekeeb](https://shop.beekeeb.com/)。
 - [Keycapsss](https://keycapsss.com/)。
