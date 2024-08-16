@@ -6,11 +6,11 @@
 
 ## 開發者前言
 
-Plank，是大部分人入坑人體工學鍵盤時最常接觸到的鍵盤，因為它方且正，許多的人體工學鍵盤的基礎都是在這個方正的鍵盤上延伸；
+**Plank**，是大部分人入坑人體工學鍵盤時最常接觸到的鍵盤，因為它方且正，許多的人體工學鍵盤的基礎都是在這個方正的鍵盤上延伸；
 
-Blank，翻譯成中文的意思為空白。結合了Plank所需要的基礎，進而把鍵盤拓展成可分離的版本，你可以只使用單側、也可以使用兩側、可以在你需要的那一側加裝自己需要的特殊元件，也可以將元件放置在手的左或右側...
+**Blank**，翻譯成中文的意思為**空白**。結合了Plank所需要的基礎，進而把鍵盤拓展成可分離的版本，你可以只使用單側、也可以使用兩側、可以在你需要的那一側加裝自己需要的特殊元件，也可以將元件放置在手的左或右側...
 
-並且支援Kailh矮軸Choc v1、v2、Gateron矮軸GLP雙熱插拔，選擇自己所喜歡的按鍵軸及鍵帽——
+並且支援Kailh矮軸**Choc v1**、**v2**、Gateron矮軸**GLP**雙**熱插拔**，選擇自己所喜歡的按鍵軸及鍵帽——
 
 因此將它歸為探索者系列，稱之為Blank，稱之為3號。
 
@@ -19,7 +19,7 @@ Blank，翻譯成中文的意思為空白。結合了Plank所需要的基礎，�
 - 我只是想做一把簡單的鍵盤。
 - 開發上一把鍵盤時發現我最多只需要2顆旋鈕。
 - 不想思考太多。
-- 突然想到自己曾經在beekeeb上看到Cirque 40mm的觸控板模組。
+- 突然想到自己曾經在**beekeeb**上看到**Cirque 40mm的觸控板**模組。
 - 試試看做個能同時翻面支援的電路板好了。
 
 如果想知道完整的開發過程，請詳細閱讀[開發日誌](log.md)中的內文。
@@ -94,29 +94,29 @@ Blank，翻譯成中文的意思為空白。結合了Plank所需要的基礎，�
 4. 使用電烙鐵時務必留意`環境通風`、`用電安全`及`燙傷預防`。
 5. 在進入組裝環節之前，務必先將beekeeb及Keycapsss的組裝流程看過一輪：
 
-    - [Cirque Trackpad i2c on Corne Keyboard Build Log](https://beekeeb.com/cirque-trackpad-i2c-on-corne-keyboard/)
-    - [GlidePoint Cirque Trackpad with Adapter PCB](https://github.com/Keycapsss/cirque-trackpad)
+    - [Cirque Trackpad i2c on Corne Keyboard Build Log](https://beekeeb.com/cirque-trackpad-i2c-on-corne-keyboard/)。
+    - [GlidePoint Cirque Trackpad with Adapter PCB](https://github.com/Keycapsss/cirque-trackpad)。
 
 環境及材料都準備完畢之後，就可以開始進入[組裝環節](guide.md)了。
 
 ## 無私的感謝
 
 ### 工具軟體
-- KiCAD version 7.0.5。
-- Autodesk Fusion。
-- QMK、VIAL。
+- [KiCAD](https://www.kicad.org/) version `7.0.5`。
+- [Autodesk Fusion](https://www.autodesk.com/products/fusion-360/free-trial)。
+- [QMK](https://qmk.fm/)、[VIAL](https://get.vial.today/)。
 
 ### 規格書
-- TM040040 Trackpad。
-- Resistor_THT。
-- molex 781271110 0.5 FPC CONN.
-- ALPS EC11、EC12E。
+- [TM040040 Trackpad](spc/TM040040.pdf)。
+- [Resistor_THT](spc/Resistor_THT.png)。
+- [molex 781271110 0.5 FPC CONN.](spc/FPC-Conn-781271110.pdf)。
+- ALPS [EC11](<spc/Rotray Encoder EC11.pdf>)、[EC12E](<spc/Rotray Encoder EC12E.PDF>)。
 
 ### 商家及廠家
-- 太豪股份有限公司。
-- 凱華電子有限公司。
-- nuphy及Gateron。
-- beekeeb。
-- Keycapsss。
-- JLCPCB。
+- [太豪股份有限公司](https://www.tai-hao.com/tw/)。
+- [凱華電子有限公司。](http://www.kailh.com/index.html)
+- [nuphy](https://nuphy.com/)及[Gateron](https://www.gateron.co/)。
+- [beekeeb](https://shop.beekeeb.com/)。
+- [Keycapsss](https://keycapsss.com/)。
+- [JLCPCB](https://jlcpcb.com/)。
 
