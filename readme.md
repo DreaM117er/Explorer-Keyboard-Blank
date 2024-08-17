@@ -6,11 +6,11 @@
 
 ## 開發者前言
 
-**Plank**，是大部分人入坑人體工學鍵盤時最常接觸到的鍵盤，因為它方且正，許多的人體工學鍵盤的基礎都是在這個方正的鍵盤上延伸；
+Plank，是大部分人入坑人體工學鍵盤時最常接觸到的鍵盤，因為它方且正，許多的人體工學鍵盤的基礎都是在這個方正的鍵盤上延伸；
 
-**Blank**，翻譯成中文的意思為**空白**。結合了Plank所需要的基礎，進而把鍵盤拓展成可分離的版本，你可以只使用單側、也可以使用兩側、可以在你需要的那一側加裝自己需要的特殊元件，也可以將元件放置在手的左或右側...
+Blank，翻譯成中文的意思為空白。結合了Plank所需要的基礎，進而把鍵盤拓展成可分離的版本，你可以只使用單側、也可以使用兩側、可以在你需要的那一側加裝自己需要的特殊元件，也可以將元件放置在手的左或右側...
 
-並且支援Kailh矮軸**Choc v1**、**v2**、Gateron矮軸**GLP**雙**熱插拔**，選擇自己所喜歡的按鍵軸及鍵帽——
+並且支援Kailh矮軸Choc v1、v2、Gateron矮軸GLP雙熱插拔，選擇自己所喜歡的按鍵軸及鍵帽——
 
 因此將它歸為探索者系列，稱之為Blank，稱之為3號。
 
@@ -19,7 +19,7 @@
 - 我只是想做一把簡單的鍵盤。
 - 開發上一把鍵盤時發現我最多只需要2顆旋鈕。
 - 不想思考太多。
-- 突然想到自己曾經在**beekeeb**上看到**Cirque 40mm的觸控板**模組。
+- 突然想到自己曾經在beekeeb上看到Cirque 40mm的觸控板模組。
 - 試試看做個能同時翻面支援的電路板好了。
 
 如果想知道完整的開發過程，請詳細閱讀[開發日誌](log.md)中的內文。
@@ -80,12 +80,10 @@
 |*|旋鈕編碼器帽蓋|1|選配|`ø39mm`、`軸孔深4.5mm`特製版，推薦3D列印|
 ||`3.5mm` `TRRS`座|2|選配|單側安裝不需使用|
 
-> **Notice**
->
-> 探索者3號支援各大網路商家販售的Cirque 40mm的觸控板模組拓展包，裡頭基本一應俱全，可考慮直接從通路購買：
-> 
-> - [40mm Cirque GlidePoint Circle Trackpad Module DIY Kit for Split Mechanical Keyboard](https://shop.beekeeb.com/product/40mm-cirque-glidepoint-circle-trackpad-module-diy-kit-for-split-mechanical-keyboard/)
-> - [GlidePoint Cirque Trackpad TM040040 TM035035](https://keycapsss.com/keyboard-parts/parts/211/glidepoint-cirque-trackpad-tm040040-tm035035)
+探索者3號支援各大網路商家販售的Cirque 40mm的觸控板模組拓展包，裡頭基本一應俱全，可考慮直接從通路購買：
+
+- [40mm Cirque GlidePoint Circle Trackpad Module DIY Kit for Split Mechanical Keyboard](https://shop.beekeeb.com/product/40mm-cirque-glidepoint-circle-trackpad-module-diy-kit-for-split-mechanical-keyboard/)
+- [GlidePoint Cirque Trackpad TM040040 TM035035](https://keycapsss.com/keyboard-parts/parts/211/glidepoint-cirque-trackpad-tm040040-tm035035)
 
 ### 注意事項
 
