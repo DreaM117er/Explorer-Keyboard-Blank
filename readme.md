@@ -37,9 +37,9 @@ Blank，翻譯成中文的意思為空白。結合了Plank所需要的基礎，�
 |底板|![bottom](pic/info/bottom.png)|
 |--|--|
 |定位板|![plate](pic/info/plate.png)|
-|固定板A|![A](pic/info/A.png)|
-|固定板B|![B](pic/info/B.png)|
-|固定板C|![C](pic/info/C.png)|
+|擋板A|![A](pic/info/A.png)|
+|擋板B|![B](pic/info/B.png)|
+|擋板C|![C](pic/info/C.png)|
 |MCU擋板|![Cover](pic/info/cover.png)|
 
 ### 會使用到的工具
