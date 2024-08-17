@@ -224,14 +224,16 @@ FFC連接座完成固定後，再將軟排線安裝固定上去。
     - ATMega32U4 ProMicro：可使用`QMK Toolbox`及`QMK MSYS`進行燒錄。
     - RP2040 ProMicro：啟動`RP_BOOT`模式，將`.uf2`韌體燒進硬碟裡即可。
 
-> `RP_BOOT`模式有兩種方式可以啟動：一種是將MCU上的`BOOT`按鈕按住後接入電腦後啟動；一種是接入電腦後按住`BOOT`按鈕1秒後再按`RESET`按鈕後啟動。
+> `RP_BOOT`模式有兩種方式可以啟動：
+> 1. 將MCU上的`BOOT`按鈕按住後接入電腦後啟動。
+> 2. 接入電腦後按住`BOOT`按鈕1秒後再按`RESET`按鈕後啟動。
 
 - 組裝鍵盤後：
 
     - ATMega32U4 ProMicro：可使用`QMK Toolbox`及`QMK MSYS`進行燒錄，`RESET`按鈕壓一下就可啟動燒錄模式。
     - RP2040 ProMicro：電路板上的`RESET`輕觸開關`按2下之後1秒放開`，會啟動`RP_BOOT`模式，將`.uf2`韌體燒進硬碟裡即可。
 
-
+> MCU的背面也有對應的`RESET`及`BOOT`孔可以用鑷子觸發，不用擔心燒錄問題。
 
 
 
