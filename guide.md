@@ -79,6 +79,10 @@
 |ProMicro|ATMega32U4|5V|移除|移除|移除|加裝|
 |ProMicro|RP2040|3V3|移除|-|-|加裝|
 
+> 觸控板照片來自Keycapsss：
+
+![](https://keycapsss.com/help/static/7bc572ccf60a0ee520e6b4f3219e6dff/29d31/resistor-i2c-5v-1.jpg)
+
 ### 加裝FFC連接座
 
 ![](pic/guide/c2.jpg)
