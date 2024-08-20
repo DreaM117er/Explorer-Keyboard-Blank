@@ -252,11 +252,11 @@ FFC連接座完成固定後，再將軟排線安裝固定上去。
 
 > 鍵盤按鍵部分，請將`VIAL`打開進入`Matrix Tester`，若已經插入鍵軸就把所有按鍵都按過一輪，若沒有請用鑷子測試每顆按鍵上的熱插拔座`焊盤`或`針腳`。
 
-![](pic/info/n1.png)
+![](pic/guide/n1.png)
 
 > 若要測試旋鈕編碼器上頭的按鍵，對應`Layout`的部分，將開關打開再進行`Matrix Tester`測試。
 
-![](pic/info/n2.png)
+![](pic/guide/n2.png)
 
 
 
