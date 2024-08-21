@@ -52,7 +52,7 @@ If you want to know the complete development process, please read the [Changelog
 |Hot Plate|Optional|For the SMD components|
 |Heat Gun|Optional|For the SMD components|
 
-### Materials (one side assembly)
+### Material list (one side assembly)
 
 |![info5](pic/info/info5.png)|![info6](pic/info/info6.png)|
 |--|--|
@@ -96,7 +96,7 @@ The Explorer No.3 supports the Cirque 40mm trackpad module expansion kit, which 
     - Diode `1N4148` and `hot-swap sockets` must be prepared, otherwise the keyboard will not work properly.
     - The knob `Encoder` needs to be installed together with the `Cap`.
     - Crique 40mm `touchpad` needs to be installed with `4.7k pull-up resistor` and `12pin flexible cable`, please pay special attention to it.
-    - `M2 screw spacers` must be prepared and mounted on `the whole structure` of the keyboard.
+    - `M2 screw washers` must be prepared and mounted on `the whole structure` of the keyboard.
  
 3. The mechanical keyswitches must follow the specification of the hot-swap sockets, because `Choc` is not compatible with `GLP` specification.
 4. Pay attention to `environmental ventilation`, `electrical safety`, and `burn prevention` when using soldering irons.
