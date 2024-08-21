@@ -125,7 +125,7 @@ After the environment and materials have been prepared, you can start the [build
 ### Shops and Manufacturers
 - [Tai-hao Enterprise co.](https://www.tai-hao.com/tw/)。
 - [Kailh Electronics Co.](http://www.kailh.com/index.html)。
-- [nuphy](https://nuphy.com/)及[Gateron](https://www.gateron.co/)。
+- [nuphy](https://nuphy.com/) and [Gateron](https://www.gateron.co/)。
 - [beekeeb](https://shop.beekeeb.com/)。
 - [Keycapsss](https://keycapsss.com/)。
 - [JLCPCB](https://jlcpcb.com/)。
