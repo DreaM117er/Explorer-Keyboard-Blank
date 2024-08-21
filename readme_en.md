@@ -104,29 +104,29 @@ The Explorer No.3 supports the Cirque 40mm trackpad module expansion kit, which 
 4. Pay attention to `environmental ventilation`, `electrical safety`, and `burn prevention` when using soldering irons.
 5. Go through the guide of beekeeb and Keycapsss before you start the building guide:
 
-    - [Cirque Trackpad i2c on Corne Keyboard Build Log](https://beekeeb.com/cirque-trackpad-i2c-on-corne-keyboard/)。
-    - [GlidePoint Cirque Trackpad with Adapter PCB](https://keycapsss.com/help/cirque-trackpad/#spi-or-i2c)。
+    - [Cirque Trackpad i2c on Corne Keyboard Build Log](https://beekeeb.com/cirque-trackpad-i2c-on-corne-keyboard/).
+    - [GlidePoint Cirque Trackpad with Adapter PCB](https://keycapsss.com/help/cirque-trackpad/#spi-or-i2c).
 
 After the environment and materials have been prepared, you can start the [building guide](guide.md).
 
 ## Selfless Thanks
 
 ### Softwares
-- [KiCAD](https://www.kicad.org/) version `7.0.5`。
-- [Autodesk Fusion](https://www.autodesk.com/products/fusion-360/free-trial)。
-- [QMK](https://qmk.fm/)、[VIAL](https://get.vial.today/)。
+- [KiCAD](https://www.kicad.org/) version `7.0.5`.
+- [Autodesk Fusion](https://www.autodesk.com/products/fusion-360/free-trial).
+- [QMK](https://qmk.fm/)、[VIAL](https://get.vial.today/).
 
 ### Datasheets
-- [TM040040 Trackpad](spc/TM040040.pdf)。
-- [Resistor_THT](spc/Resistor_THT.png)。
-- [molex 781271110 0.5 FPC CONN.](spc/FPC-Conn-781271110.pdf)。
-- ALPS [EC11](<spc/Rotray Encoder EC11.pdf>)、[EC12E](<spc/Rotray Encoder EC12E.PDF>)。
+- [TM040040 Trackpad](spc/TM040040.pdf).
+- [Resistor_THT](spc/Resistor_THT.png).
+- [molex 781271110 0.5 FPC CONN.](spc/FPC-Conn-781271110.pdf).
+- ALPS [EC11](<spc/Rotray Encoder EC11.pdf>)、[EC12E](<spc/Rotray Encoder EC12E.PDF>).
 
 ### Shops and Manufacturers
-- [Tai-hao Enterprise co.](https://www.tai-hao.com/tw/)。
-- [Kailh Electronics Co.](http://www.kailh.com/index.html)。
-- [nuphy](https://nuphy.com/) and [Gateron](https://www.gateron.co/)。
-- [beekeeb](https://shop.beekeeb.com/)。
-- [Keycapsss](https://keycapsss.com/)。
-- [JLCPCB](https://jlcpcb.com/)。
+- [Tai-hao Enterprise co.](https://www.tai-hao.com/tw/).
+- [Kailh Electronics Co.](http://www.kailh.com/index.html).
+- [nuphy](https://nuphy.com/) and [Gateron](https://www.gateron.co/).
+- [beekeeb](https://shop.beekeeb.com/).
+- [Keycapsss](https://keycapsss.com/).
+- [JLCPCB](https://jlcpcb.com/).
 
