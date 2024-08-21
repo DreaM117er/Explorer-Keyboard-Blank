@@ -14,8 +14,6 @@ And it supports Kailh Choc v1, v2, Gateron GLP dual hot-swapping, choose your fa
 
 Therefore it is classified as Explorer series, called Blank, and called No.3.
 
-Translated with DeepL.com (free version)
-
 ## Inspiration
 
 - I just wanted to make a simple keyboard.
