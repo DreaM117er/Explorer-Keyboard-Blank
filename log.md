@@ -10,7 +10,7 @@
 
 ![footprint](pic/log/ft.png)
 
-說是以Plank為基礎，但我每天看著桌子前方的MX軸軸罐也不是辦法，因為自己用矮軸也用了一陣子，也無法切換回去，有一天我點開KiCAD整理我個人的lLibrary跟footprint資料庫的時候，順手畫出了這個Choc及GLP矮軸雙面電路板支援的footprint。
+說是以Plank為基礎，但我每天看著桌子前方的MX軸軸罐也不是辦法，因為自己用矮軸也用了一陣子，也無法切換回去，有一天我點開KiCAD整理我個人的Library跟footprint資料庫的時候，順手畫出了這個Choc及GLP矮軸雙面電路板支援的footprint。
 
 我沒想到這個東西這麼好看，於是就這樣加在自己的原理圖及PCB設計裡，鍵盤PCB就慢慢地成型了。
 

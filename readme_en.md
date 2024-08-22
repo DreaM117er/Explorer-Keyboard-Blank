@@ -76,7 +76,7 @@ If you want to know the complete development process, please read the [Changelog
 ||M2x`4mm` Spacer|4|-|-|
 ||`ø8mm` `H1mm` Cushion rubber|4|-|-|
 |*|`Cirque` `40mm` Trackpad|1|Optional|Recommand to use the version with `Curve Overlay`|
-||`FFC` `12pin` Socket|1|Optional|No needed if you have `I2C adapter`|
+||`FFC` `12pin` Connector|1|Optional|No needed if you have `I2C adapter`|
 |*|`FFC` `12pin` Flexible Cable|1|Optional|`Cable and Cable on the same side`, `50mm` length|
 |*|`4.7K` Pull-up Resistor|2|Optional|`THT`, if you need to install trackpad|
 |*|Rotray Encoder (Knob)|1|Optional|`EC11` and `EC12`, choose one to use; `L: 10mm`, `A: 4.5-5.0mm`, recommanded `Half-type` or `D type`|
@@ -105,7 +105,7 @@ The Explorer No.3 supports the Cirque 40mm trackpad module expansion kit, which 
     - [Cirque Trackpad i2c on Corne Keyboard Build Log](https://beekeeb.com/cirque-trackpad-i2c-on-corne-keyboard/).
     - [GlidePoint Cirque Trackpad with Adapter PCB](https://keycapsss.com/help/cirque-trackpad/#spi-or-i2c).
 
-After the environment and materials have been prepared, you can start the [building guide](guide.md).
+After the environment and materials have been prepared, you can start the [building guide](guide_en.md).
 
 ## Selfless Thanks
 
