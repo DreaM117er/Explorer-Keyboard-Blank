@@ -36,9 +36,7 @@ After designing the MCU, I found that placing it on its side would cause the key
 
 The first time I learnt about Cirque's trackpad was from Bastardkb's Dilemma, which also uses this 40mm trackpad, so I googled it from the Dilemma's github page, and found it on beekeeb. At that time, I only knew that this is sold here, then I really plan to buy 2 packs from here to test it with breadboard at home, here is the product after testing:
 
-Here's what I got after testing: !
-
-[](pic/log/l1.jpg)
+![](pic/log/l1.jpg)
 
 I also took measurements of the actual object and built a 3D model of it with Cirque's specification:
 
@@ -50,7 +48,7 @@ I really didn't expect so much attention to this humble keyboard, but I found ou
 ![](pic/log/s.png)
 ![](pic/log/l4.jpg)
 
-Anyway, as long as you like it, and the short axes are slowly starting to be made by some manufacturers, and there are slowly more choices, so it's good that I've made this keyboard to share at this time.
+Anyway, as long as you like it, and the low profile switches are slowly starting to be made by some manufacturers, and there are slowly more choices, so it's good that I've made this keyboard to share at this time.
 
 Thank you all.
 
