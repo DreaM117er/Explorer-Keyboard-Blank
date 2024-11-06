@@ -162,7 +162,7 @@ Firstly, the `8mm screws` will be screwed in place with `nuts`.
 
 ![](pic/guide/b2.jpg)
 
-The `4mm screw` part will be held in place with the `5mm` spacers and the washers.
+The `4mm screw` part will be held in place with the `5mm` spacers.
 
 ![](pic/guide/b3.jpg)
 

@@ -59,21 +59,21 @@ If you want to know the complete development process, please read the [Changelog
 
 |-|Name|Amount|Note|Detail|
 |--|--|--|--|--|
-||PCB|1|-|Left and Right can be flipped|
-||Case|1|-|Left and Right can be flipped|
+||PCB|1|-|Left and Right can be flipped, Order `1.6mm` thickness|
+||Case|1|-|Left and Right can be flipped, Order `1.6mm` thickness|
+|*|Plate|1|-|Left and Right can be flipped, Order `1.2mm` thickness|
 |*|`ProMicro`|1|The MCU have similar pins|Recommanded to use `RP2040` version|
 |*|Diode `1N4148`|25|-|`SMD`|
 |*|Hot-swap socket|24|`Choc` and `GLP`, choose one to use||
 ||`2pin` Tactile Switch|1|-|-|
-|*|M2 Washer|10|-|Stable keyboard construction for use|
+|*|M2 Washer|6|-|Stable keyboard construction for use|
 ||M2x`8mm` Screw|6|-|-|
 ||M2x`6mm` Screw|8|-|-|
 ||M2x`4mm` Screw|4|-|-|
 ||M2x`3mm` Screw|6|-|-|
 ||M2 Nuts|10|-|-|
 ||M2x`8mm` Spacer|2|-|-|
-||M2x`5mm` Spacer|4|-|-|
-||M2x`4mm` Spacer|4|-|-|
+||M2x`5mm` Spacer|8|-|-|
 ||`ø8mm` `H1mm` Cushion rubber|4|-|-|
 |*|`Cirque` `40mm` Trackpad|1|Optional|Recommand to use the version with `Curve Overlay`|
 ||`FFC` `12pin` Connector|1|Optional|No needed if you have `I2C adapter`|
