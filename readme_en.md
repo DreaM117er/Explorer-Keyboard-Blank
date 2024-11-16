@@ -66,12 +66,12 @@ If you want to know the complete development process, please read the [Changelog
 
 |-|Name|Amount|Amount|Note|Detail|
 |--|--|--|--|--|--|
-|-|-|4x6|5x6|-|-|
+|||**4x6**|**5x6**|||
 ||PCB|1|-|-|Left and Right can be flipped, Order `1.6mm` thickness|
 ||Case|1|-|-|Left and Right can be flipped, Order `1.6mm` thickness|
 |*|Plate|1|-|-|Left and Right can be flipped, Order `1.2mm` thickness|
 |*|`ProMicro`|1|-|The MCU have similar pins|Recommanded to use `RP2040` version|
-|*|Diode `1N4148`|24-25|30-31|-|`SMD`|
+|*|Diode `1N4148`|25|31|-|`SMD`|
 |*|Hot-swap socket|24|30|`Choc` and `GLP`, choose one to use||
 ||`2pin` Tactile Switch|1|-|-|-|
 |*|M2 Washer|6|-|-|Stable keyboard construction for use|
