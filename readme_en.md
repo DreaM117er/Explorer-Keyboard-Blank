@@ -78,7 +78,7 @@ If you want to know the complete development process, please read the [Changelog
 ||M2x`8mm` Screw|6|-|-|-|
 ||M2x`6mm` Screw|8|-|-|-|
 ||M2x`4mm` Screw|4|6|-|-|
-||M2x`3mm` Screw|6|-|-|-|
+||M2x`3mm` Screw|6|8|-|-|
 ||M2 Nuts|10|-|-|-|
 ||M2x`8mm` Spacer|2|4|-|-|
 ||M2x`5mm` Spacer|8|-|-|-|
