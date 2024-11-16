@@ -64,31 +64,32 @@ If you want to know the complete development process, please read the [Changelog
 |![info5](pic/info/info5.png)|![info7](pic/info/info7.png)|
 |![info6](pic/info/info6.png)|![info8](pic/info/info8.png)|
 
-|-|Name|Amount|Note|Detail|
-|--|--|--|--|--|
-||PCB|1|-|Left and Right can be flipped, Order `1.6mm` thickness|
-||Case|1|-|Left and Right can be flipped, Order `1.6mm` thickness|
-|*|Plate|1|-|Left and Right can be flipped, Order `1.2mm` thickness|
-|*|`ProMicro`|1|The MCU have similar pins|Recommanded to use `RP2040` version|
-|*|Diode `1N4148`|25|-|`SMD`|
-|*|Hot-swap socket|24|`Choc` and `GLP`, choose one to use||
-||`2pin` Tactile Switch|1|-|-|
-|*|M2 Washer|6|-|Stable keyboard construction for use|
-||M2x`8mm` Screw|6|-|-|
-||M2x`6mm` Screw|8|-|-|
-||M2x`4mm` Screw|4|-|-|
-||M2x`3mm` Screw|6|-|-|
-||M2 Nuts|10|-|-|
-||M2x`8mm` Spacer|2|-|-|
-||M2x`5mm` Spacer|8|-|-|
-||`ø8mm` `H1mm` Cushion rubber|4|-|-|
-|*|`Cirque` `40mm` Trackpad|1|Optional|Recommand to use the version with `Curve Overlay`|
-||`FFC` `12pin` Connector|1|Optional|No needed if you have `I2C adapter`|
-|*|`FFC` `12pin` Flexible Cable|1|Optional|`Cable and Cable on the same side`, `50mm` length|
-|*|`4.7K` Pull-up Resistor|2|Optional|`THT`, if you need to install trackpad|
-|*|Rotray Encoder (Knob)|1|Optional|`EC11` and `EC12`, choose one to use; `L: 10mm`, `A: 4.5-5.0mm`, recommanded `Half-type` or `D type`|
-|*|The Cap|1|Optional|`ø39mm`、`Hole Depth 4.5mm` special edition, recommended 3DP|
-||`3.5mm` `TRRS Jack`|2|Optional|No needed when you build only one keyboard|
+|-|Name|Amount|Amount|Note|Detail|
+|--|--|--|--|--|--|
+|-|-|4x6|5x6|-|-|
+||PCB|1|-|-|Left and Right can be flipped, Order `1.6mm` thickness|
+||Case|1|-|-|Left and Right can be flipped, Order `1.6mm` thickness|
+|*|Plate|1|-|-|Left and Right can be flipped, Order `1.2mm` thickness|
+|*|`ProMicro`|1|-|The MCU have similar pins|Recommanded to use `RP2040` version|
+|*|Diode `1N4148`|24-25|30-31|-|`SMD`|
+|*|Hot-swap socket|24|30|`Choc` and `GLP`, choose one to use||
+||`2pin` Tactile Switch|1|-|-|-|
+|*|M2 Washer|6|-|-|Stable keyboard construction for use|
+||M2x`8mm` Screw|6|-|-|-|
+||M2x`6mm` Screw|8|-|-|-|
+||M2x`4mm` Screw|4|6|-|-|
+||M2x`3mm` Screw|6|-|-|-|
+||M2 Nuts|10|-|-|-|
+||M2x`8mm` Spacer|2|4|-|-|
+||M2x`5mm` Spacer|8|-|-|-|
+||`ø8mm` `H1mm` Cushion rubber|4|-|-|-|
+|*|`Cirque` `40mm` Trackpad|1|-|Optional|Recommand to use the version with `Curve Overlay`|
+||`FFC` `12pin` Connector|1|-|Optional|No needed if you have `I2C adapter`|
+|*|`FFC` `12pin` Flexible Cable|1|-|Optional|`Cable and Cable on the same side`, `50mm` length|
+|*|`4.7K` Pull-up Resistor|2|-|Optional|`THT`, if you need to install trackpad|
+|*|Rotray Encoder (Knob)|1|-|Optional|`EC11` and `EC12`, choose one to use; `L: 10mm`, `A: 4.5-5.0mm`, recommanded `Half-type` or `D type`|
+|*|The Cap|1|-|Optional|`ø39mm`、`Hole Depth 4.5mm` special edition, recommended 3DP|
+||`3.5mm` `TRRS Jack`|1|2|Optional|No needed when you build only one keyboard|
 
 The Explorer No.3 supports the Cirque 40mm trackpad module expansion kit, which is sold by various online stores, and has basically everything you need, so consider buying it directly from the stores:
 
