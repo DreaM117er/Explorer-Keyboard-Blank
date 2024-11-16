@@ -1,8 +1,11 @@
 # Explorer Keyboard Blank
 
-|![info1](pic/info/info1.jpg)|![info2](pic/info/info2.jpg)|
+|4x6|5x6|
 |--|--|
-|![info3](pic/info/info3.jpg)|![info4](pic/info/info4.jpg)|
+|![info1](pic/info/info1.jpg)|![info9](pic/info/info9.jpg)|
+|![info2](pic/info/info2.jpg)|![info10](pic/info/info10.jpg)|
+|![info3](pic/info/info3.jpg)|![info11](pic/info/info11.jpg)|
+|![info4](pic/info/info4.jpg)|![info12](pic/info/info12.jpg)|
 
 ## Foreword
 
@@ -28,19 +31,21 @@ If you want to know the complete development process, please read the [Changelog
 
 ### PCB
 
-|Front side|![pcb1](pic/info/pcb1.png)|
-|--|--|
-|Back side|![pcb2](pic/info/pcb2.png)|
+||4x6|5x6|
+|--|--|--|
+|Front Side|![pcb1](pic/info/pcb1.png)|![pcb3](pic/info/pcb3.png)|
+|Back Side|![pcb2](pic/info/pcb2.png)|![pcb4](pic/info/pcb4.png)|
 
 ### Case
 
-|Bottom|![bottom](pic/info/bottom.png)|
-|--|--|
-|Plate|![plate](pic/info/plate.png)|
-|Cover A|![A](pic/info/A.png)|
-|Cover B|![B](pic/info/B.png)|
-|Cover C|![C](pic/info/C.png)|
-|Cover MCU|![Cover](pic/info/cover.png)|
+||4x6|5x6|
+|--|--|--|
+|Bottom|![bottom](pic/info/bottom.png)|![bottom1](pic/info/bottom1.png)|
+|Plate|![plate](pic/info/plate.png)|![plate1](pic/info/plate1.png)|
+|Cover A|![A](pic/info/A.png)|![A](pic/info/A.png)|
+|Cover B|![B](pic/info/B.png)|![B](pic/info/B.png)|
+|Cover C|![C](pic/info/C.png)|![C](pic/info/C.png)|
+|Cover MCU|![Cover](pic/info/cover.png)|![Cover1](pic/info/cover1.png)|
 
 ### Tools to be used
 

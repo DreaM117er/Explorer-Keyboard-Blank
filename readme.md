@@ -1,8 +1,11 @@
 # Explorer Keyboard Blank 探索者3號
 
-|![info1](pic/info/info1.jpg)|![info2](pic/info/info2.jpg)|
+|4x6|5x6|
 |--|--|
-|![info3](pic/info/info3.jpg)|![info4](pic/info/info4.jpg)|
+|![info1](pic/info/info1.jpg)|![info9](pic/info/info9.jpg)|
+|![info2](pic/info/info2.jpg)|![info10](pic/info/info10.jpg)|
+|![info3](pic/info/info3.jpg)|![info11](pic/info/info11.jpg)|
+|![info4](pic/info/info4.jpg)|![info12](pic/info/info12.jpg)|
 
 ## 開發者前言
 
@@ -28,19 +31,21 @@ Blank，翻譯成中文的意思為空白。結合了Plank所需要的基礎，�
 
 ### 電路板
 
-|正面|![pcb1](pic/info/pcb1.png)|
-|--|--|
-|背面|![pcb2](pic/info/pcb2.png)|
+||4x6|5x6|
+|--|--|--|
+|正面|![pcb1](pic/info/pcb1.png)|![pcb3](pic/info/pcb3.png)|
+|背面|![pcb2](pic/info/pcb2.png)|![pcb4](pic/info/pcb4.png)|
 
 ### 外殼
 
-|底板|![bottom](pic/info/bottom.png)|
-|--|--|
-|定位板|![plate](pic/info/plate.png)|
-|擋板A|![A](pic/info/A.png)|
-|擋板B|![B](pic/info/B.png)|
-|擋板C|![C](pic/info/C.png)|
-|MCU擋板|![Cover](pic/info/cover.png)|
+||4x6|5x6|
+|--|--|--|
+|底板|![bottom](pic/info/bottom.png)|![bottom1](pic/info/bottom1.png)|
+|定位板|![plate](pic/info/plate.png)|![plate1](pic/info/plate1.png)|
+|擋板A|![A](pic/info/A.png)|![A](pic/info/A.png)|
+|擋板B|![B](pic/info/B.png)|![B](pic/info/B.png)|
+|擋板C|![C](pic/info/C.png)|![C](pic/info/C.png)|
+|MCU擋板|![Cover](pic/info/cover.png)|![Cover1](pic/info/cover1.png)|
 
 ### 會使用到的工具
 
