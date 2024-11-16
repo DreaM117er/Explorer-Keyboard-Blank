@@ -59,8 +59,10 @@ Blank，翻譯成中文的意思為空白。結合了Plank所需要的基礎，�
 
 ### 使用材料（單側組裝）
 
-|![info5](pic/info/info5.png)|![info6](pic/info/info6.png)|
+|4x6|5x6|
 |--|--|
+|![info5](pic/info/info5.png)|![info7](pic/info/info7.png)|
+|![info6](pic/info/info6.png)|![info8](pic/info/info8.png)|
 
 |-|名稱|數量|備註|詳細說明|
 |--|--|--|--|--|

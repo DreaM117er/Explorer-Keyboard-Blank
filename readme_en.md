@@ -59,8 +59,10 @@ If you want to know the complete development process, please read the [Changelog
 
 ### Material list (one side assembly)
 
-|![info5](pic/info/info5.png)|![info6](pic/info/info6.png)|
+|4x6|5x6|
 |--|--|
+|![info5](pic/info/info5.png)|![info7](pic/info/info7.png)|
+|![info6](pic/info/info6.png)|![info8](pic/info/info8.png)|
 
 |-|Name|Amount|Note|Detail|
 |--|--|--|--|--|
