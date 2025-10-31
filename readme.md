@@ -1,6 +1,6 @@
 # Explorer Keyboard Blank 探索者3號
 
-|4x6|5x6|
+|4x6 v1|5x6 v1|
 |--|--|
 |![info1](pic/info/info1.jpg)|![info9](pic/info/info9.jpg)|
 |![info2](pic/info/info2.jpg)|![info10](pic/info/info10.jpg)|
@@ -31,14 +31,14 @@ Blank，翻譯成中文的意思為空白。結合了Plank所需要的基礎，�
 
 ### 電路板
 
-||4x6|5x6|
+||4x6 v1|5x6 v1|
 |--|--|--|
 |正面|![pcb1](pic/info/pcb1.png)|![pcb3](pic/info/pcb3.png)|
 |背面|![pcb2](pic/info/pcb2.png)|![pcb4](pic/info/pcb4.png)|
 
 ### 外殼
 
-||4x6|5x6|
+||4x6 v1|5x6 v1|
 |--|--|--|
 |底板|![bottom](pic/info/bottom.png)|![bottom1](pic/info/bottom1.png)|
 |定位板|![plate](pic/info/plate.png)|![plate1](pic/info/plate1.png)|
@@ -59,7 +59,7 @@ Blank，翻譯成中文的意思為空白。結合了Plank所需要的基礎，�
 
 ### 使用材料（單側組裝）
 
-|4x6|5x6|
+|4x6 v1|5x6 v1|
 |--|--|
 |![info5](pic/info/info5.png)|![info7](pic/info/info7.png)|
 |![info6](pic/info/info6.png)|![info8](pic/info/info8.png)|

@@ -1,6 +1,6 @@
 # Explorer Keyboard Blank
 
-|4x6|5x6|
+|4x6 v1|5x6 v1|
 |--|--|
 |![info1](pic/info/info1.jpg)|![info9](pic/info/info9.jpg)|
 |![info2](pic/info/info2.jpg)|![info10](pic/info/info10.jpg)|
@@ -31,14 +31,14 @@ If you want to know the complete development process, please read the [Changelog
 
 ### PCB
 
-||4x6|5x6|
+||4x6 v1|5x6 v1|
 |--|--|--|
 |Front Side|![pcb1](pic/info/pcb1.png)|![pcb3](pic/info/pcb3.png)|
 |Back Side|![pcb2](pic/info/pcb2.png)|![pcb4](pic/info/pcb4.png)|
 
 ### Case
 
-||4x6|5x6|
+||4x6 v1|5x6 v1|
 |--|--|--|
 |Bottom|![bottom](pic/info/bottom.png)|![bottom1](pic/info/bottom1.png)|
 |Plate|![plate](pic/info/plate.png)|![plate1](pic/info/plate1.png)|
@@ -59,7 +59,7 @@ If you want to know the complete development process, please read the [Changelog
 
 ### Material list (one side assembly)
 
-|4x6|5x6|
+|4x6 v1|5x6 v1|
 |--|--|
 |![info5](pic/info/info5.png)|![info7](pic/info/info7.png)|
 |![info6](pic/info/info6.png)|![info8](pic/info/info8.png)|
