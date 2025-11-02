@@ -49,15 +49,14 @@ v1 的產生是有經過思考的成果，但我經過學習電路學，正式�
 
 |4x6-LP|4x6-MX|4x5-LP|4x5-MX|
 |--|--|--|--|
-|![](pic/info2/blank-46-lp-ec.png)|![](pic/info2/blank-46-mx-ec.png)|||
-|![](pic/info2/blank-46-lp-tp1.png)|![](pic/info2/blank-46-mx-tp1.png)|||
-|![](pic/info2/blank-46-lp-tp2.png)|![](pic/info2/blank-46-mx-tp2.png)|||
-
+|![](pic/info2/blank-46-lp-ec.png)|![](pic/info2/blank-46-mx-ec.png)|![](pic/info2/blank-45-lp-ec.png)|![](pic/info2/blank-45-mx-ec.png)|
+|![](pic/info2/blank-46-lp-tp1.png)|![](pic/info2/blank-46-mx-tp1.png)|![](pic/info2/blank-45-lp-tp1.png)|![](pic/info2/blank-45-mx-tp1.png)|
+|![](pic/info2/blank-46-lp-tp2.png)|![](pic/info2/blank-46-mx-tp2.png)|![](pic/info2/blank-45-lp-tp2.png)|![](pic/info2/blank-45-mx-tp2.png)|
 |5x6-LP|5x6-MX|5x5-LP|5x5-MX|
 |--|--|--|--|
-|![](pic/info2/blank-56-lp-ec.png)|![](pic/info2/blank-56-mx-ec.png)|||
-|![](pic/info2/blank-56-lp-tp1.png)|![](pic/info2/blank-56-mx-tp1.png)|||
-|![](pic/info2/blank-56-lp-tp2.png)|![](pic/info2/blank-56-mx-tp2.png)|||
+|![](pic/info2/blank-56-lp-ec.png)|![](pic/info2/blank-56-mx-ec.png)|![](pic/info2/blank-55-lp-ec.png)|![](pic/info2/blank-55-mx-ec.png)|
+|![](pic/info2/blank-56-lp-tp1.png)|![](pic/info2/blank-56-mx-tp1.png)|![](pic/info2/blank-55-lp-tp1.png)|![](pic/info2/blank-55-mx-tp1.png)|
+|![](pic/info2/blank-56-lp-tp2.png)|![](pic/info2/blank-56-mx-tp2.png)|![](pic/info2/blank-55-lp-tp2.png)|![](pic/info2/blank-55-mx-tp2.png)
 
 > 以下表格跟 v1 的說明一樣，爲組裝**單邊**鍵盤的材料數量。
 
