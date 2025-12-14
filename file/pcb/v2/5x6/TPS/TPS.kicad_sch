@@ -4418,20 +4418,12 @@
 		(uuid "8bfecf3b-ecca-440e-9db3-5d750c60ea1a")
 	)
 	(no_connect
-		(at 218.44 78.74)
-		(uuid "90a5efa4-2f0e-4c48-afbe-407b9ad0c96f")
-	)
-	(no_connect
 		(at 41.91 184.15)
 		(uuid "989f2d10-9e76-4ca7-8696-34eb9152e0bc")
 	)
 	(no_connect
 		(at 41.91 146.05)
 		(uuid "a36972c3-3fe0-443b-8682-3d4f7d40d9d8")
-	)
-	(no_connect
-		(at 218.44 96.52)
-		(uuid "a576d26f-74c4-4329-a758-8bdc35fdff55")
 	)
 	(no_connect
 		(at 82.55 158.75)
@@ -6891,6 +6883,50 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "N{slash}A1"
+		(shape input)
+		(at 218.44 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8cf44193-f109-424c-b992-137151b474cd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 210.4957 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "N{slash}A2"
+		(shape input)
+		(at 218.44 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8ee5ec50-3ac5-461d-abde-425fc155ff53")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 210.4957 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -11169,7 +11205,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:TRRS-PJ-320A, dual side x2"
+		(property "Footprint" "DreaM117er-keebLibrary:TRRS-PJ-320A, dual side x2_3rd"
 			(at 173.99 97.79 0)
 			(effects
 				(font

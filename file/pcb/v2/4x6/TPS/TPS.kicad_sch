@@ -4304,10 +4304,6 @@
 		(uuid "309236c8-7b76-4a72-b22e-0465ea4367ee")
 	)
 	(no_connect
-		(at 129.54 53.34)
-		(uuid "3356da30-baf5-44fd-9285-1e27bb13848e")
-	)
-	(no_connect
 		(at 38.1 146.05)
 		(uuid "35bffc44-71d1-4d6f-b7e0-ec8af32a3588")
 	)
@@ -4322,14 +4318,6 @@
 	(no_connect
 		(at 78.74 135.89)
 		(uuid "52647a80-9a65-4285-9e82-cf10133c4a71")
-	)
-	(no_connect
-		(at 218.44 96.52)
-		(uuid "5ca2093e-c629-4237-b444-2b0e8a92af11")
-	)
-	(no_connect
-		(at 218.44 78.74)
-		(uuid "6f8019aa-2760-4aac-9c60-fd756ee59fd8")
 	)
 	(no_connect
 		(at 38.1 138.43)
@@ -6349,6 +6337,28 @@
 			)
 		)
 	)
+	(global_label "N{slash}A1"
+		(shape input)
+		(at 218.44 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6ca5c67e-faa9-4d94-96e0-71d6979b84f4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 210.4957 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col4"
 		(shape input)
 		(at 41.91 32.385 90)
@@ -6855,6 +6865,28 @@
 			)
 		)
 	)
+	(global_label "N{slash}A2"
+		(shape input)
+		(at 218.44 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e53fbbff-92ff-4b62-9ea8-02f4171e41f0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 210.4957 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "BAT+"
 		(shape input)
 		(at 218.44 83.82 180)
@@ -6912,6 +6944,28 @@
 		(uuid "eb08ff28-8dcf-42b1-8a79-8cd7959a508e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 124.3777 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row4"
+		(shape input)
+		(at 129.54 53.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f0a111ce-a10d-46c3-b2a2-e4c722099bf5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 122.0796 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12320,7 +12374,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "DreaM117er-keebLibrary:TRRS-PJ-320A, dual side x2"
+		(property "Footprint" "DreaM117er-keebLibrary:TRRS-PJ-320A, dual side x2_3rd"
 			(at 171.45 130.81 0)
 			(effects
 				(font
