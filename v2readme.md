@@ -2,7 +2,7 @@
 
 |4x6 v2|5x6 v2|
 |--|--|
-|||
+|![4x6info](pic/info2/info.jpg)||
 
 ## 說明 (Introduction)
 
